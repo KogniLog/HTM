@@ -1,3 +1,9 @@
+This implementation is directly derived from the HTM Camer Toolkit.
+
+
+Read more about it:
+
+
 The HTM Camera Toolkit is a research application that allows easy experimentation of Numenta's Hierarchical Temporal Memory (HTM) algorithms using real world video input from a camera/webcam.
 
 I haven't set up any formal installers as of yet.  So to run the toolkit you will need the following installed:
